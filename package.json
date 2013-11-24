@@ -1,4 +1,7 @@
 {
+  "name": "color-parser",
+  "version": "0.0.1",
+  "private": true,
   "dependencies": {
     "color-convert": "~0.3.1"
   },
