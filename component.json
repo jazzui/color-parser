@@ -1,0 +1,17 @@
+{
+  "name": "color-parser",
+  "repo": "jazzui/color-parser",
+  "description": "Parse css colors",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "timoxley/color-convert": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}
