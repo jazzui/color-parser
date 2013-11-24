@@ -2,7 +2,16 @@
   "dependencies": {
     "color-convert": "~0.3.1"
   },
+  "scripts": {
+    "test": "make test",
+    "blanket": {
+      "pattern": "index.js",
+      "onlyCwd": true,
+      "data-cover-never": "node_modules"
+    }
+  },
   "devDependencies": {
-    "expect.js": "~0.2.0"
+    "expect.js": "~0.2.0",
+    "blanket": "~1.1.5"
   }
 }
