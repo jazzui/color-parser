@@ -16,6 +16,7 @@
   }, {
     "id": "blanket",
     "enabled": true,
+    "status": true,
     "config": {}
   }]
 }
